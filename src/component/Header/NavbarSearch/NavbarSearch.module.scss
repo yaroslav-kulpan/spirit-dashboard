@@ -1,0 +1,22 @@
+.navbar__form {
+  position: relative;
+}
+
+.bg__search {
+  width: 100%;
+  background-color: #31343d;
+  padding: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn__submit {
+  position: absolute;
+  top: 50%;
+  right: 7px;
+  background-color: transparent;
+  border: none;
+  color: #74767c;
+  cursor: pointer;
+  transform: translate(0, -50%);
+}
